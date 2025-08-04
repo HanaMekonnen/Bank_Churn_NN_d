@@ -1,4 +1,4 @@
-# Bank_Churn_NN_d
+# Bank Churn Prediction using Neural Network
 
 Project Overview / Objective
 
