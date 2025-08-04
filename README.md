@@ -1,3 +1,5 @@
+# Bank_Churn_NN_d
+
 Project Overview / Objective
 
 In the competitive banking industry, customer churn—the likelihood of clients leaving for other service providers—has a significant impact on revenue and long-term business viability. Banks must identify the behavioral and demographic factors that lead to churn and intervene early with targeted actions.
